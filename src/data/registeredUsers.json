@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "d87ea460-ea18-4c25-a026-d7881cd1bc00",
+    "_username": "translator1",
+    "_password": "1234",
+    "_role": "translator",
+    "_translatedWords": 6,
+    "_wordsAdded": 2,
+    "_english": 1,
+    "_spanish": 0,
+    "_italian": 0
+  },
+  {
+    "_id": "f1200947-413a-4722-abcf-286d1ecaaf0b",
+    "_username": "translator2",
+    "_password": "5678",
+    "_role": "translator",
+    "_translatedWords": 3,
+    "_wordsAdded": 4,
+    "_english": 0,
+    "_spanish": 1,
+    "_italian": 1
+  },
+  {
+    "_id": "87f90279-ce14-4053-b32c-cea3a095b861",
+    "_username": "admin1",
+    "_password": "1234",
+    "_role": "admin",
+    "_translatedWords": 0,
+    "_wordsAdded": 0,
+    "_english": 0,
+    "_spanish": 0,
+    "_italian": 0
+  },
+  {
+    "_id": "a6edd6e3-45d1-4748-8208-77561581d6c8",
+    "_username": "admin2",
+    "_password": "5678",
+    "_role": "admin",
+    "_translatedWords": 0,
+    "_wordsAdded": 0,
+    "_english": 0,
+    "_spanish": 0,
+    "_italian": 0
+  },
+  {
+    "_id": "83ab22e5-bb67-4443-ba3b-dd22d03d3949",
+    "_username": "trans3",
+    "_password": "1234",
+    "_role": "translator",
+    "_translatedWords": 0,
+    "_wordsAdded": 0,
+    "_english": 1,
+    "_spanish": 0,
+    "_italian": 1
+  }
+]

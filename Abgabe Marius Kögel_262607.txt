@@ -1,0 +1,10 @@
+Software Design Endabgabe WS 20/21
+
+Marius Kögel
+
+Matrikelnr.: 262607
+
+
+Im Ordner sind die UML-Diagramme enthalten (UML.drawio).
+
+Die Anwendung baut auf der Grundlage des Example TS Project auf, dass wir in der Vorlesung behandelt haben und lässt sich mit "nmp run start" starten.

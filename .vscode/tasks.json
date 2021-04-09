@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build:prod",
+			"path": "../TranslationMemory/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build:prod - TranslationMemory",
+			"detail": "webpack --mode=production --progress"
+		},
+		{
+			"type": "typescript",
+			"tsconfig": "tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build",
+			"label": "tsc: build - tsconfig.json"
+		}
+	]
+}

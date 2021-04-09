@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "3dfa76fd-12de-4638-8244-f5bc3f848da6",
+    "_word": "Student",
+    "_english": "Student",
+    "_spanish": "Estudiante",
+    "_italian": "Studente"
+  },
+  {
+    "_id": "4f40ecd1-7b4b-46c8-adbc-d95ba11dec1b",
+    "_word": "Dozent",
+    "_english": "Lecturer",
+    "_spanish": "Conferenciante",
+    "_italian": "Docente"
+  },
+  {
+    "_id": "a39b75ad-b282-421d-9c1f-b9121956d62f",
+    "_word": "Klausur",
+    "_english": "Exam",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "c4ef1dd3-9dfd-406a-a2b1-2e5991e46961",
+    "_word": "Stuhl",
+    "_english": "Chair",
+    "_spanish": "",
+    "_italian": "Sedia"
+  },
+  {
+    "_id": "3150f62d-ca63-4306-8bae-078ad5b79999",
+    "_word": "Zebra",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "dd01a920-d1ae-4fe3-8c00-b978f3e0f160",
+    "_word": "Heizung",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "96bd3428-5d41-47a5-8103-c42ba46b90ff",
+    "_word": "Tasse",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "999f6148-0d7c-4463-8ee3-691f4b5dc032",
+    "_word": "Sofa",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "a3b320ff-cffb-4bb4-a030-0e2190deacae",
+    "_word": "Flasche",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "59d9feda-4a29-45b1-8b17-dabad09f2ab7",
+    "_word": "Baum",
+    "_english": "Tree",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "166d0acf-d1ac-4147-bbe6-cfba84f49aad",
+    "_word": "Tanne",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "34266383-4f71-4bf4-965e-1b6b7a87458f",
+    "_word": "Hund",
+    "_english": "Dog",
+    "_spanish": "Perro",
+    "_italian": "Cane"
+  },
+  {
+    "_id": "1aeb4001-aabc-4f44-907e-869107a93b07",
+    "_word": "Sonne",
+    "_english": "Sun",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "dad7714a-1c54-4a84-a977-9e2b6cfcdfae",
+    "_word": "Meer",
+    "_english": "Sea",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "508655ee-f20e-47bb-89c5-1d92bd584006",
+    "_word": "Dose",
+    "_english": "Can",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "3a7234d9-0576-49fe-939f-41bf8cb4a0ef",
+    "_word": "Braten",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "798da231-70a6-4f17-97fa-588b3c3aff05",
+    "_word": "Mond",
+    "_english": "Moon",
+    "_spanish": "Luna",
+    "_italian": "Luna"
+  },
+  {
+    "_id": "8043bd3e-76ed-475a-a5e6-c8c116f56f57",
+    "_word": "Bier",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "e95394e2-244c-4fc2-8475-b5fa81cc98c3",
+    "_word": "Mondschau",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  },
+  {
+    "_id": "81deff64-4144-4686-8bfc-a509465ddf07",
+    "_word": "klopapier",
+    "_english": "",
+    "_spanish": "",
+    "_italian": ""
+  }
+]
